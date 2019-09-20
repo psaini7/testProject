@@ -11,6 +11,13 @@
       <typeSet uuid="_gSe7ktNiEee4Q7NokZIK1A" bitSet="393220"/>
     </domain>
   </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_q5yLcNupEemFe9YWLWLsjg"
+      name="someNewVar" visibility="800">
+    <domain uuid="_q5yLcdupEemFe9YWLWLsjg" name="local"
+        visibility="300">
+      <typeSet uuid="_q5yLctupEemFe9YWLWLsjg" bitSet="393231"/>
+    </domain>
+  </variables>
   <calculation uuid="_u9BdYNNiEee4Q7NokZIK1A" name="Calculation"
       visibility="800">
     <text>component_number_string = parent_number_string + &quot; (part)&quot;;</text>
