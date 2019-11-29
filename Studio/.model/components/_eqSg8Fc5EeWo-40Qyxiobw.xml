@@ -25,6 +25,11 @@
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
     </twoDElement>
+    <twoDElement xsi:type="comp:TwoDImage" uuid="_9k640PSrEem2ouRuarsApA"
+        name="Image">
+      <translation uuid="_9k640fSrEem2ouRuarsApA"/>
+      <file href="../../../../farProject/Studio/model.build#_kmaH8GQDEeSDd6k47owxsA"/>
+    </twoDElement>
     <parentPlugs uuid="_eqSg8lc5EeWo-40Qyxiobw" name="ParentPlug"/>
   </geometry>
   <roles uuid="_jjN-wFc5EeWo-40Qyxiobw" name="subLink"

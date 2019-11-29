@@ -4,83 +4,125 @@
     uuid="_8a7OIbbkEeK305n3PlGMhg" name="Build Model"
     modelType="enterprise_2d" modelTemplateVersion="1">
   <externalResources uuid="_ItFJUGNCEeSOoIlj3yU-IQ"
-      name="export_document.png" relativePath="graphics/export_document.png"/>
+      name="export_document.png" relativePath="graphics/export_document.png"
+      projectName="bornProject"/>
   <externalResources uuid="_JTm90GNCEeSOoIlj3yU-IQ"
-      name="export_document_down.png" relativePath="graphics/export_document_down.png"/>
+      name="export_document_down.png" relativePath="graphics/export_document_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_j_lYgGQDEeSDd6k47owxsA"
-      name="export_cad.png" relativePath="graphics/export_cad.png"/>
+      name="export_cad.png" relativePath="graphics/export_cad.png"
+      projectName="bornProject"/>
   <externalResources uuid="_kmaH8GQDEeSDd6k47owxsA"
-      name="export_cad_down.png" relativePath="graphics/export_cad_down.png"/>
+      name="export_cad_down.png" relativePath="graphics/export_cad_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_octfcGp3EeSSX_Brc-X50g"
-      name="logo.png" relativePath="DefaultUI/logo.png"/>
+      name="logo.png" relativePath="DefaultUI/logo.png"
+      projectName="bornProject"/>
   <externalResources uuid="_8uEBgGqzEeSf2roTWK8_Lg"
-      name="DefaultBGBottom.png" relativePath="DefaultUI/PanelBGImages/DefaultBGBottom.png"/>
+      name="DefaultBGBottom.png" relativePath="DefaultUI/PanelBGImages/DefaultBGBottom.png"
+      projectName="bornProject"/>
   <externalResources uuid="_WP5dAGq0EeSf2roTWK8_Lg"
-      name="disabled.png" relativePath="DefaultUI/Tabs/disabled.png"/>
+      name="disabled.png" relativePath="DefaultUI/Tabs/disabled.png"
+      projectName="bornProject"/>
   <externalResources uuid="_XEvaUGq0EeSf2roTWK8_Lg"
-      name="end.png" relativePath="DefaultUI/Tabs/end.png"/>
+      name="end.png" relativePath="DefaultUI/Tabs/end.png"
+      projectName="bornProject"/>
   <externalResources uuid="_X8JjcGq0EeSf2roTWK8_Lg"
-      name="filler.png" relativePath="DefaultUI/Tabs/filler.png"/>
+      name="filler.png" relativePath="DefaultUI/Tabs/filler.png"
+      projectName="bornProject"/>
   <externalResources uuid="_Y66RwGq0EeSf2roTWK8_Lg"
-      name="selected.png" relativePath="DefaultUI/Tabs/selected.png"/>
+      name="selected.png" relativePath="DefaultUI/Tabs/selected.png"
+      projectName="bornProject"/>
   <externalResources uuid="_Zq_D0Gq0EeSf2roTWK8_Lg"
-      name="start.png" relativePath="DefaultUI/Tabs/start.png"/>
+      name="start.png" relativePath="DefaultUI/Tabs/start.png"
+      projectName="bornProject"/>
   <externalResources uuid="_aWxLwGq0EeSf2roTWK8_Lg"
-      name="unselected.png" relativePath="DefaultUI/Tabs/unselected.png"/>
+      name="unselected.png" relativePath="DefaultUI/Tabs/unselected.png"
+      projectName="bornProject"/>
   <externalResources uuid="__DzUYGq0EeSU5fRCDlCvNA"
-      name="disabled.png" relativePath="DefaultUI/TabsSub/disabled.png"/>
+      name="disabled.png" relativePath="DefaultUI/TabsSub/disabled.png"
+      projectName="bornProject"/>
   <externalResources uuid="__rY40Gq0EeSU5fRCDlCvNA"
-      name="end.png" relativePath="DefaultUI/TabsSub/end.png"/>
+      name="end.png" relativePath="DefaultUI/TabsSub/end.png"
+      projectName="bornProject"/>
   <externalResources uuid="_AQBP4Gq1EeSU5fRCDlCvNA"
-      name="filler.png" relativePath="DefaultUI/TabsSub/filler.png"/>
+      name="filler.png" relativePath="DefaultUI/TabsSub/filler.png"
+      projectName="bornProject"/>
   <externalResources uuid="_A6kBsGq1EeSU5fRCDlCvNA"
-      name="selected.png" relativePath="DefaultUI/TabsSub/selected.png"/>
+      name="selected.png" relativePath="DefaultUI/TabsSub/selected.png"
+      projectName="bornProject"/>
   <externalResources uuid="_BfR4UGq1EeSU5fRCDlCvNA"
-      name="start.png" relativePath="DefaultUI/TabsSub/start.png"/>
+      name="start.png" relativePath="DefaultUI/TabsSub/start.png"
+      projectName="bornProject"/>
   <externalResources uuid="_CLWUIGq1EeSU5fRCDlCvNA"
-      name="unselected.png" relativePath="DefaultUI/TabsSub/unselected.png"/>
+      name="unselected.png" relativePath="DefaultUI/TabsSub/unselected.png"
+      projectName="bornProject"/>
   <externalResources uuid="_OpnWMGq2EeSU5fRCDlCvNA"
-      name="DefaultBGToolBar.png" relativePath="DefaultUI/PanelBGImages/DefaultBGToolBar.png"/>
+      name="DefaultBGToolBar.png" relativePath="DefaultUI/PanelBGImages/DefaultBGToolBar.png"
+      projectName="bornProject"/>
   <externalResources uuid="_8X9e8G_zEeSb6NXyjhnDPg"
-      name="delete.png" relativePath="DefaultUI/Buttons/delete.png"/>
+      name="delete.png" relativePath="DefaultUI/Buttons/delete.png"
+      projectName="bornProject"/>
   <externalResources uuid="_86e9MG_zEeSb6NXyjhnDPg"
-      name="delete_down.png" relativePath="DefaultUI/Buttons/delete_down.png"/>
+      name="delete_down.png" relativePath="DefaultUI/Buttons/delete_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_9ZIoEG_zEeSb6NXyjhnDPg"
-      name="viewpoint_init.png" relativePath="DefaultUI/Buttons/viewpoint_init.png"/>
+      name="viewpoint_init.png" relativePath="DefaultUI/Buttons/viewpoint_init.png"
+      projectName="bornProject"/>
   <externalResources uuid="_91soQG_zEeSb6NXyjhnDPg"
-      name="viewpoint_init_down.png" relativePath="DefaultUI/Buttons/viewpoint_init_down.png"/>
+      name="viewpoint_init_down.png" relativePath="DefaultUI/Buttons/viewpoint_init_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_r8gm4G_4EeSb6NXyjhnDPg"
-      name="check_mark.png" relativePath="DefaultUI/StateShower/check_mark.png"/>
+      name="check_mark.png" relativePath="DefaultUI/StateShower/check_mark.png"
+      projectName="bornProject"/>
   <externalResources uuid="_sjyCQG_4EeSb6NXyjhnDPg"
-      name="locked.png" relativePath="DefaultUI/StateShower/locked.png"/>
+      name="locked.png" relativePath="DefaultUI/StateShower/locked.png"
+      projectName="bornProject"/>
   <externalResources uuid="_vA6MAG_4EeSb6NXyjhnDPg"
-      name="locked_tjecked.png" relativePath="DefaultUI/StateShower/locked_tjecked.png"/>
+      name="locked_tjecked.png" relativePath="DefaultUI/StateShower/locked_tjecked.png"
+      projectName="bornProject"/>
   <externalResources uuid="_vhfwkG_4EeSb6NXyjhnDPg"
-      name="transp.png" relativePath="DefaultUI/StateShower/transp.png"/>
+      name="transp.png" relativePath="DefaultUI/StateShower/transp.png"
+      projectName="bornProject"/>
   <externalResources uuid="_0WViIHAEEeSePcy3DK4xYQ"
-      name="add.png" relativePath="DefaultUI/add.png"/>
+      name="add.png" relativePath="DefaultUI/add.png"
+      projectName="bornProject"/>
   <externalResources uuid="_c5_0AHYZEeSV1N5l7j34iw"
-      name="show_log.png" relativePath="DefaultUI/Buttons/show_log.png"/>
+      name="show_log.png" relativePath="DefaultUI/Buttons/show_log.png"
+      projectName="bornProject"/>
   <externalResources uuid="_pk_bwHYgEeSHELBrgOlIgg"
-      name="show_log_down.png" relativePath="DefaultUI/Buttons/show_log_down.png"/>
+      name="show_log_down.png" relativePath="DefaultUI/Buttons/show_log_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_8ZuekBBzEeavUNi6WFydqg"
-      name="splash.png" relativePath="customization/splash.png"/>
+      name="splash.png" relativePath="customization/splash.png"
+      projectName="bornProject"/>
   <externalResources uuid="_Ae-AMBB1EeaxVtETEFLkSA"
-      name="Build.png" relativePath="customization/doNotDelete/Build.png"/>
+      name="Build.png" relativePath="customization/doNotDelete/Build.png"
+      projectName="bornProject"/>
   <externalResources uuid="_2apLwCdCEeahG-Pj7x0wPA"
-      name="unset.png" relativePath="DefaultUI/StateShower/unset.png"/>
+      name="unset.png" relativePath="DefaultUI/StateShower/unset.png"
+      projectName="bornProject"/>
   <externalResources uuid="_zlGTUNQ0EeepMeauXm2JIg"
-      name="DefaultBGSettings.png" relativePath="DefaultUI/PanelBGImages/DefaultBGSettings.png"/>
+      name="DefaultBGSettings.png" relativePath="DefaultUI/PanelBGImages/DefaultBGSettings.png"
+      projectName="bornProject"/>
   <externalResources uuid="_VedbAE62Eei0NfpTrkQidw"
-      name="DefaultBGTopBar.png" relativePath="DefaultUI/PanelBGImages/DefaultBGTopBar.png"/>
+      name="DefaultBGTopBar.png" relativePath="DefaultUI/PanelBGImages/DefaultBGTopBar.png"
+      projectName="bornProject"/>
   <externalResources uuid="_zJ_IYE65Eei0NfpTrkQidw"
-      name="zoom-in.png" relativePath="graphics/zoom-in.png"/>
+      name="zoom-in.png" relativePath="graphics/zoom-in.png"
+      projectName="bornProject"/>
   <externalResources uuid="_JLnk0E7AEei0NfpTrkQidw"
-      name="zoom-in_down.png" relativePath="graphics/zoom-in_down.png"/>
+      name="zoom-in_down.png" relativePath="graphics/zoom-in_down.png"
+      projectName="bornProject"/>
   <externalResources uuid="_3KsfkDRJEem6ktnFy8SV3Q"
-      name="trash.png" relativePath="DefaultUI/Buttons/trash.png"/>
+      name="trash.png" relativePath="DefaultUI/Buttons/trash.png"
+      projectName="bornProject"/>
   <externalResources uuid="_3KtGoDRJEem6ktnFy8SV3Q"
-      name="trash_down.png" relativePath="DefaultUI/Buttons/trash_down.png"/>
+      name="trash_down.png" relativePath="DefaultUI/Buttons/trash_down.png"
+      projectName="bornProject"/>
+  <externalResources uuid="_5Br-kPATEemNnJeVhl8nPQ"
+      name="Build_DrawingTemplate_A4_Portrait.svg" relativePath="images/Build_DrawingTemplate_A4_Portrait.svg"
+      projectName="bornProject"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>

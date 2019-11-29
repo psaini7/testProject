@@ -7,10 +7,12 @@
     debugGuiOnPreview="true" debugGuiFramed="true" debugLevelPreview="DEBUG">
   <facets xsi:type="appl:TemplateInsertFacet" uuid="_GIFTUKTqEea8d6P1JTl01w"
       id="COMPONENTS"/>
+  <templates href="components/_SV3YkPAUEemNnJeVhl8nPQ.xml#_SV3YkPAUEemNnJeVhl8nPQ"/>
   <components href="components/_eqSg8Fc5EeWo-40Qyxiobw.xml#_eqSg8Fc5EeWo-40Qyxiobw"/>
   <components href="components/_q8cPEFc5EeWo-40Qyxiobw.xml#_q8cPEFc5EeWo-40Qyxiobw"/>
   <components href="components/_KH3RkHABEeSk24oMIozLgA.xml#_KH3RkHABEeSk24oMIozLgA"/>
   <components href="components/_Z4wkQFc8EeWo-40Qyxiobw.xml#_Z4wkQFc8EeWo-40Qyxiobw"/>
+  <components href="components/_513mMBKREeqOm4KiAT8A0w.xml#_513mMBKREeqOm4KiAT8A0w"/>
   <world href="world.xml#_8fNuADTNEeSDp-UE12WecQ"/>
   <domains uuid="_2ZqEUEluEeSo87hK2eA7dQ" name="features">
     <typeSet uuid="_GIF6YqTqEea8d6P1JTl01w" bitSet="458767"/>
@@ -180,7 +182,5 @@
     <inTypeSet uuid="_GIHvnqTqEea8d6P1JTl01w" bitSet="458767"/>
     <outTypeSet uuid="_GIHvn6TqEea8d6P1JTl01w" bitSet="458767"/>
   </tables>
-  <modeldescription uuid="_GIIWoKTqEea8d6P1JTl01w" pmid="BuildModel">
-    <version uuid="_GIJkwKTqEea8d6P1JTl01w" major="1"/>
-  </modeldescription>
+  <modeldescription uuid="_GIIWoKTqEea8d6P1JTl01w" pmid="BuildModel"/>
 </comp:ProductModel>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:appl="http://com.virtubuild/schemas/appl.ecore"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_Z4wkQFc8EeWo-40Qyxiobw" name="part_of_component"
     componentClass="PARTOF" partOf="true" deleteMode="NEVER">
@@ -29,6 +30,12 @@
       <translation uuid="_Vh37YU62Eei0NfpTrkQidw"/>
       <color href="../product_model.xml#_Dvuz8ce5EeK1ILHtYeZxPw"/>
       <bgColor href="../product_model.xml#_Dvuz8ce5EeK1ILHtYeZxPw"/>
+    </twoDElement>
+    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_8UHYQPSrEem2ouRuarsApA"
+        name="Interactive_SVG">
+      <facets xsi:type="appl:MOAOMessage" uuid="_8Va_0PSrEem2ouRuarsApA"
+          description="Has no SVG file attached"/>
+      <translation uuid="_8UHYQfSrEem2ouRuarsApA"/>
     </twoDElement>
     <parentPlugs uuid="_Z4wkQlc8EeWo-40Qyxiobw" name="ParentPlug"/>
   </geometry>

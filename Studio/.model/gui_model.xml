@@ -230,6 +230,12 @@
               value="Insert"/>
         </subMenus>
       </items>
+      <locks uuid="_7UsjAPATEemNnJeVhl8nPQ" name="Lock">
+        <extraData xsi:type="appl:ExtraDataTable" uuid="_7W5icPATEemNnJeVhl8nPQ"
+            name="values"/>
+        <extraData xsi:type="appl:ExtraDataConstant"
+            uuid="_7W9z4PATEemNnJeVhl8nPQ" name="variable"/>
+      </locks>
     </panels>
   </guiUnits>
   <guiUnits xsi:type="gui:GUIUnit" uuid="_tHd1MGq1EeSU5fRCDlCvNA"
