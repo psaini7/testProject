@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
+    uuid="_JJC78D3tEeqii_RjX5TPBQ" name="Component">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_JimEYD3tEeqii_RjX5TPBQ"
+      name="Variable" visibility="800">
+    <domain uuid="_JimEYT3tEeqii_RjX5TPBQ" name="local"
+        visibility="300">
+      <typeSet uuid="_JimEYj3tEeqii_RjX5TPBQ" bitSet="393231"/>
+      <values uuid="_KHFRgD3tEeqii_RjX5TPBQ" name="a"
+          visibility="300">
+        <displayName uuid="_KHFRgT3tEeqii_RjX5TPBQ"/>
+      </values>
+      <values uuid="_KUFywD3tEeqii_RjX5TPBQ" name="b"
+          visibility="300">
+        <displayName uuid="_KUFywT3tEeqii_RjX5TPBQ"/>
+      </values>
+      <values uuid="_Kqe5gD3tEeqii_RjX5TPBQ" name="c"
+          visibility="300">
+        <displayName uuid="_Kqe5gT3tEeqii_RjX5TPBQ"/>
+      </values>
+    </domain>
+  </variables>
+  <geometry uuid="_JJC78T3tEeqii_RjX5TPBQ" deletable="false"
+      name="root">
+    <parentPlugs uuid="_JJC78j3tEeqii_RjX5TPBQ" name="ParentPlug"/>
+  </geometry>
+  <displayName uuid="_JJC78z3tEeqii_RjX5TPBQ"/>
+</comp:Component>

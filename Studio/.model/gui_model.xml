@@ -7,25 +7,29 @@
   <style uuid="_y1CuFP7MEd-ok_zz1c7U2w" deletable="false"
       name="Styles">
     <fontStyles uuid="_lKkykGpyEeSfCJnJCtaXOA" name="DefaultFontStyleTab"
-        bold="true" size="16">
+        bold="true" size="16" tabStylesUsingMeNonSelect="_wHX3UGpyEeSfCJnJCtaXOA"
+        tabStylesUsingMeSelect="_wHX3UGpyEeSfCJnJCtaXOA">
       <color uuid="_VhVv4062Eei0NfpTrkQidw" red="128"
           green="128" blue="128"/>
     </fontStyles>
     <fontStyles uuid="_ndmlIGpyEeSfCJnJCtaXOA" name="DefaultFontStyleTabSub"
-        bold="true" size="13">
+        bold="true" size="13" tabStylesUsingMeNonSelect="_wXvOkGpyEeSfCJnJCtaXOA"
+        tabStylesUsingMeSelect="_wXvOkGpyEeSfCJnJCtaXOA"
+        guiBarStylesUsingMeFont="_GDrUcKTqEea8d6P1JTl01w">
       <color uuid="_VhVv5U62Eei0NfpTrkQidw" red="128"
           green="128" blue="128"/>
     </fontStyles>
     <fontStyles uuid="_9Tzp4G_4EeSb6NXyjhnDPg" name="DefaultFontStyleValue"
-        size="12">
+        size="12" tioStylesUsingMeForValue="_5VOUcG_4EeSb6NXyjhnDPg _bbutcW_-EeSk24oMIozLgA">
       <color uuid="_VhVv5062Eei0NfpTrkQidw"/>
     </fontStyles>
     <fontStyles uuid="__Rrr0G_4EeSb6NXyjhnDPg" name="DefaultFontStyleLabel"
-        size="12">
+        size="12" itemStylesUsingMe="_hdKZoNErEeeGsJtGzNJHVg"
+        tioStylesUsingMeForText="_5VOUcG_4EeSb6NXyjhnDPg _bbutcW_-EeSk24oMIozLgA">
       <color uuid="_VhVv6U62Eei0NfpTrkQidw"/>
     </fontStyles>
     <fontStyles uuid="_3o-awHAIEeSePcy3DK4xYQ" name="DefaultFontStyleH1"
-        bold="true" size="14">
+        bold="true" size="14" itemStylesUsingMe="_yDmtsHAIEeSePcy3DK4xYQ">
       <color uuid="_VhVv6062Eei0NfpTrkQidw" green="32"
           blue="91"/>
     </fontStyles>
@@ -34,12 +38,12 @@
     </imageStyles>
     <itemStyles uuid="_yDmtsHAIEeSePcy3DK4xYQ" deletable="false"
         name="DefaultItemStyle" font="_3o-awHAIEeSePcy3DK4xYQ"
-        length="200">
+        length="200" itemsUsingMe="_QbrUwNEOEeeiAoe5mqAy-g _3JCssNEqEeeGsJtGzNJHVg _Ng-2UdNgEee4Q7NokZIK1A _faAGUdNgEee4Q7NokZIK1A">
       <bgColor uuid="_VhVv7062Eei0NfpTrkQidw" red="255"
           green="255" blue="255"/>
     </itemStyles>
     <itemStyles uuid="_hdKZoNErEeeGsJtGzNJHVg" name="DefaultTextStyle"
-        font="__Rrr0G_4EeSb6NXyjhnDPg">
+        font="__Rrr0G_4EeSb6NXyjhnDPg" itemsUsingMe="_bx2coNErEeeGsJtGzNJHVg _Ng-2UtNgEee4Q7NokZIK1A _faAGUtNgEee4Q7NokZIK1A">
       <bgColor uuid="_VhVv8U62Eei0NfpTrkQidw" red="255"
           green="255" blue="255"/>
     </itemStyles>
